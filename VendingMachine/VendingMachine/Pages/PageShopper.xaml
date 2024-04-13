@@ -1,0 +1,165 @@
+﻿<Page x:Class="VendingMachine.Pages.PageShopper"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:VendingMachine.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="563" d:DesignWidth="950"
+      Title="PageShopper"
+      Loaded="Page_Loaded">
+    <Grid>
+        <Rectangle Fill="#d4bda3"
+                   StrokeThickness="10"
+                   Stroke="#918373"/>
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Margin="20">
+            <TextBlock x:Name="tblShopper"
+                       Background="#383838"
+                       Height="40"
+                       Width="510"
+                       FontSize="32"
+                       FontFamily="Bernard MT Condensed"
+                       TextAlignment="Center"
+                       Foreground="#97e59a"
+                       Text="Автомат готов к работе"/>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal">
+            <ListView Width="530"
+                      Margin="10, 80, 0, 10"
+                      x:Name="lvDrinks"
+                      ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                      HorizontalContentAlignment="Center"
+                      Background="#d4bda3"
+                      BorderThickness="10"
+                      BorderBrush="#918373"
+                      SelectionChanged="lvDrinks_SelectionChanged">
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal" 
+                                   HorizontalAlignment="Center"/>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Width="200"
+                              Margin="10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="200"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            
+                            <Image HorizontalAlignment="Center"
+                                   Grid.Row="0">
+                                <Image.Source>
+                                    <Binding Path="Image" >
+                                        <Binding.TargetNullValue>
+                                            <ImageSource>/Resources/None.jpg</ImageSource>
+                                        </Binding.TargetNullValue>
+                                    </Binding>
+                                </Image.Source>
+                            </Image>
+                            
+                            <TextBox Grid.Row="1"
+                                     IsReadOnly="True"
+                                     Text="{Binding Name}"
+                                     Background="Transparent"
+                                     HorizontalContentAlignment="Center"
+                                     VerticalContentAlignment="Center"
+                                     BorderThickness="0"
+                                     Margin="0"/>
+                            <TextBox Grid.Row="2"
+                                     IsReadOnly="True"
+                                     Text="{Binding Cost, StringFormat=Стоимость: {0:N0} руб.}"
+                                     Background="Transparent"
+                                     HorizontalContentAlignment="Center"
+                                     VerticalContentAlignment="Center"
+                                     BorderThickness="0"
+                                     Margin="0"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Grid Width="340"
+                  Margin="20">
+                <Rectangle Fill="#000"
+                    StrokeThickness="25"
+                           Stroke="#d2d4d3"
+                           RadiusX="50"
+                           RadiusY="50"/>
+                <Rectangle StrokeThickness="10"
+                           Stroke="#697382"
+                           RadiusX="50"
+                           RadiusY="50"/>
+                <StackPanel Orientation="Vertical"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center">
+                    <StackPanel>
+                        <TextBlock x:Name="tblSumma"
+                                   Background="#383838"
+                                   Height="40"
+                                   Width="182"
+                                   FontSize="36"
+                                   FontFamily="Bernard MT Condensed"
+                                   FontWeight="Bold"
+                                   TextAlignment="Center"
+                                   Text="000"
+                                   Foreground="#d6d6d6"/>
+                    </StackPanel>
+                    <Grid Margin="0, 120, 0, 0"
+                          Width="200">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Button Style="{StaticResource btnScore}"
+                                x:Name="btnCoin1"
+                                Grid.Column="0" Grid.Row="0"
+                                Content="1"
+                                MouseEnter="Button_MouseEnter"
+                                MouseLeave="Button_MouseLeave"
+                                Click="btnCoin1_Click"/>
+                        <Button Style="{StaticResource btnScore}"
+                                x:Name="btnCoin5"
+                                Grid.Column="0" Grid.Row="1"
+                                Content="5"
+                                MouseEnter="Button_MouseEnter"
+                                MouseLeave="Button_MouseLeave"
+                                Click="btnCoin5_Click"/>
+                        <Button Style="{StaticResource btnScore}"
+                                x:Name="btnCoin2"
+                                Grid.Column="1" Grid.Row="0"
+                                Content="2"
+                                MouseEnter="Button_MouseEnter"
+                                MouseLeave="Button_MouseLeave"
+                                Click="btnCoin2_Click"/>
+                        <Button Style="{StaticResource btnScore}"
+                                x:Name="btnCoin10"
+                                Grid.Column="1" Grid.Row="1"
+                                Content="10"
+                                MouseEnter="Button_MouseEnter"
+                                MouseLeave="Button_MouseLeave"
+                                Click="btnCoin10_Click"/>
+                    </Grid>
+                    <StackPanel>
+                        <Button Style="{StaticResource btnScore}"
+                                x:Name="btnChange"
+                                Width="100"
+                                Height="30"
+                                Content="Сдача"
+                                FontSize="16"
+                                Click="btnChange_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e352f9dd5881480da9a2caadd8193ed6" Name="Diagram1">
+        <EntityTypeShape EntityType="VendingMachinesModel.C__MigrationHistory" Width="1.5" PointX="5.75" PointY="1.875" />
+        <EntityTypeShape EntityType="VendingMachinesModel.Coins" Width="1.5" PointX="0.75" PointY="1" />
+        <EntityTypeShape EntityType="VendingMachinesModel.Drinks" Width="1.5" PointX="0.75" PointY="6.625" />
+        <EntityTypeShape EntityType="VendingMachinesModel.VendingMachineCoins" Width="1.5" PointX="3" PointY="3.625" />
+        <EntityTypeShape EntityType="VendingMachinesModel.VendingMachineDrinks" Width="1.5" PointX="3" PointY="0.75" />
+        <EntityTypeShape EntityType="VendingMachinesModel.VendingMachines" Width="1.5" PointX="0.75" PointY="4" />
+        <EntityTypeShape EntityType="VendingMachinesModel.CountNapitki" Width="1.5" PointX="2.75" PointY="6.875" />
+        <EntityTypeShape EntityType="VendingMachinesModel.drinkReport" Width="1.5" PointX="5.75" PointY="4.875" />
+        <AssociationConnector Association="VendingMachinesModel.FK_dbo_VendingMachineCoins_dbo_Coins_CoinsId" />
+        <AssociationConnector Association="VendingMachinesModel.FK_VendingMachineDrinks_Drinks" />
+        <AssociationConnector Association="VendingMachinesModel.FK_dbo_VendingMachineCoins_dbo_VendingMachines_VendingMachineId" />
+        <AssociationConnector Association="VendingMachinesModel.FK_dbo_VendingMachineDrinks_dbo_VendingMachines_VendingMachineId" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

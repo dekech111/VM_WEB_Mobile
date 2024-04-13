@@ -1,0 +1,46 @@
+﻿<Page x:Class="VendingMachine.Pages.PageAdmin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:VendingMachine.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="563" d:DesignWidth="950"
+      Title="PageAdmin">
+    <Grid>
+        <Image Source="/Resources/Bubble.jpeg"/>
+        <Button Style="{StaticResource btnBack}"
+                            x:Name="btnBack"
+                            Click="btnBack_Click"
+                            Margin="10, 250, 0, 0">
+            <Image Source="/Resources/back.png"/>
+        </Button>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="1"
+                        Orientation="Vertical"
+                        Margin="0, 80, 40, 80">
+                <Label Content="Панель"
+                       FontSize="50"/>
+                <Label Content="администратора"
+                       FontSize="50"
+                       Margin="5"/>
+                <Button Content="Монеты"
+                        Name="btnCoins"
+                        Margin="0, 20, 0, 10"
+                        Click="btnCoins_Click"/>
+                <Button Content="Напитки"
+                        Name="btnDrinks"
+                        Margin="0, 20, 0, 10"
+                        Click="btnDrinks_Click"/>
+                <Button Content="Отчёт"
+                        x:Name="btnReport"
+                        Margin="20"
+                        Click="btnReport_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

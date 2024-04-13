@@ -1,0 +1,284 @@
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageAdmin.g.cs
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageAdmin.baml
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.g.cs
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.baml
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageCoins.g.cs
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageCoins.baml
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageReport.g.cs
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageReport.baml
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\CodeWindow.g.cs
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\CodeWindow.baml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\CodeWindow.g.cs
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageAdmin.g.cs
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageCoins.g.cs
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageReport.g.cs
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.g.cs
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\CodeWindow.baml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageAdmin.baml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageCoins.baml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageReport.baml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.baml
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageDrinks.g.cs
+C:\Users\Валерий\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageDrinks.baml
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageDrinks.g.cs
+C:\Users\Админ\Desktop\Case\VendingMachine\VendingMachine\obj\Debug\Pages\PageDrinks.baml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\CodeWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\CodeWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.baml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.baml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.baml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.baml
+C:\Users\ilias\OneDrive\Рабочий стол\VendingMachine-main\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\CodeWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\CodeWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\CodeWindow.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\CodeWindow.baml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.baml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.baml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.baml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.baml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.baml
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Админ\Desktop\VendingMachine v.2\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\CodeWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\CodeWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.3\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\CodeWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\CodeWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Вонючий Case\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\EntityFramework.dll
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\EntityFramework.xml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\CodeWindow.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine_Content.g.cs
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.cache
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine_MarkupCompile.lref
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\CodeWindow.baml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageAdmin.baml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageCoins.baml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageDrinks.baml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\Admin\PageReport.baml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\Pages\PageShopper.baml
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.g.resources
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CopyComplete
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Админ\Desktop\VendingMachine v.4\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb

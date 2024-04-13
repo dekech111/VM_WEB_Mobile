@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище VendingMachinesModelContainer" CdmEntityContainer="VendingMachinesEntities">
+    <FunctionImportMapping FunctionImportName="ButtonMoneyOffAndOn" FunctionName="Хранилище VendingMachinesModel.ButtonMoneyOffAndOn" />
+    <FunctionImportMapping FunctionImportName="CoinsAdd" FunctionName="Хранилище VendingMachinesModel.CoinsAdd" />
+    <FunctionImportMapping FunctionImportName="CoinsDrop" FunctionName="Хранилище VendingMachinesModel.CoinsDrop" />
+    <FunctionImportMapping FunctionImportName="CountCoinsUpdate" FunctionName="Хранилище VendingMachinesModel.CountCoinsUpdate" />
+    <FunctionImportMapping FunctionImportName="DrinksDrop" FunctionName="Хранилище VendingMachinesModel.DrinksDrop" />
+    <EntitySetMapping Name="C__MigrationHistory">
+      <EntityTypeMapping TypeName="VendingMachinesModel.C__MigrationHistory">
+        <MappingFragment StoreEntitySet="__MigrationHistory">
+          <ScalarProperty Name="ProductVersion" ColumnName="ProductVersion" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="ContextKey" ColumnName="ContextKey" />
+          <ScalarProperty Name="MigrationId" ColumnName="MigrationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Coins">
+      <EntityTypeMapping TypeName="VendingMachinesModel.Coins">
+        <MappingFragment StoreEntitySet="Coins">
+          <ScalarProperty Name="Denomination" ColumnName="Denomination" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Drinks">
+      <EntityTypeMapping TypeName="VendingMachinesModel.Drinks">
+        <MappingFragment StoreEntitySet="Drinks">
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VendingMachineCoins">
+      <EntityTypeMapping TypeName="VendingMachinesModel.VendingMachineCoins">
+        <MappingFragment StoreEntitySet="VendingMachineCoins">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="CoinsId" ColumnName="CoinsId" />
+          <ScalarProperty Name="VendingMachineId" ColumnName="VendingMachineId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VendingMachineDrinks">
+      <EntityTypeMapping TypeName="VendingMachinesModel.VendingMachineDrinks">
+        <MappingFragment StoreEntitySet="VendingMachineDrinks">
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="DrinksId" ColumnName="DrinksId" />
+          <ScalarProperty Name="VendingMachineId" ColumnName="VendingMachineId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VendingMachines">
+      <EntityTypeMapping TypeName="VendingMachinesModel.VendingMachines">
+        <MappingFragment StoreEntitySet="VendingMachines">
+          <ScalarProperty Name="SecretCode" ColumnName="SecretCode" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CountNapitki">
+      <EntityTypeMapping TypeName="VendingMachinesModel.CountNapitki">
+        <MappingFragment StoreEntitySet="CountNapitki">
+          <ScalarProperty Name="CountInMachine" ColumnName="CountInMachine" />
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="drinkReport">
+      <EntityTypeMapping TypeName="VendingMachinesModel.drinkReport">
+        <MappingFragment StoreEntitySet="drinkReport">
+          <ScalarProperty Name="Cost" ColumnName="Cost" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="DrinksId" ColumnName="DrinksId" />
+          <ScalarProperty Name="VendingMachineId" ColumnName="VendingMachineId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

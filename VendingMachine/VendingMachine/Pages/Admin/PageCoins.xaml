@@ -1,0 +1,136 @@
+﻿<Page x:Class="VendingMachine.Pages.PageCoins"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:VendingMachine.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="563" d:DesignWidth="950"
+      Title="PageCoins">
+
+    <Grid>
+        <Rectangle Fill="#d4bda3"
+                   StrokeThickness="10"
+                   Stroke="#918373"/>
+        <Button Style="{StaticResource btnBack}"
+                x:Name="btnBack"
+                Click="btnBack_Click">
+            <Image Source="/Resources/back.png"/>
+        </Button>
+        <StackPanel Orientation="Vertical"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Orientation="Vertical"
+                            Grid.Column="0"
+                            Margin="20">
+                    <Grid>
+                        <Ellipse Fill="#f2e674"
+                             StrokeThickness="10"
+                             Stroke="#d1c347"
+                             Width="150"
+                             Height="150"/>
+                        <Label Content="1"
+                               FontSize="80"
+                               Foreground="#bf9f00"/>
+                    </Grid>
+                    <TextBox x:Name="tbCoin1"
+                             Margin="10"
+                             Width="100"
+                             FontSize="16"
+                             HorizontalContentAlignment="Center"/>
+                    <CheckBox Content="Активная"
+                              Height="30"
+                              Width="100"
+                              x:Name="cbCoin1"
+                              Checked="cbCoin1_Checked"
+                              Unchecked="cbCoin1_Unchecked"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical"
+                            Grid.Column="1"
+                            Margin="20">
+                    <Grid>
+                        <Ellipse Fill="#f2e674"
+                             StrokeThickness="10"
+                             Stroke="#d1c347"
+                             Width="150"
+                             Height="150"/>
+                        <Label Content="2"
+                               FontSize="80"
+                               Foreground="#bf9f00"/>
+                    </Grid>
+                    <TextBox x:Name="tbCoin2"
+                             Margin="10"
+                             Width="100"
+                             FontSize="16"
+                             HorizontalContentAlignment="Center"/>
+                    <CheckBox Content="Активная"
+                              Height="30"
+                              Width="100"
+                              x:Name="cbCoin2"
+                              Checked="cbCoin2_Checked"
+                              Unchecked="cbCoin2_Unchecked"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical"
+                            Grid.Column="2"
+                            Margin="20">
+                    <Grid>
+                        <Ellipse Fill="#f2e674"
+                             StrokeThickness="10"
+                             Stroke="#d1c347"
+                             Width="150"
+                             Height="150"/>
+                        <Label Content="5"
+                               FontSize="80"
+                               Foreground="#bf9f00"/>
+                    </Grid>
+                    <TextBox x:Name="tbCoin5"
+                             Margin="10"
+                             Width="100"
+                             FontSize="16"
+                             HorizontalContentAlignment="Center"/>
+                    <CheckBox Content="Активная"
+                              Height="30"
+                              Width="100"
+                              x:Name="cbCoin5"
+                              Checked="cbCoin5_Checked"
+                              Unchecked="cbCoin5_Unchecked"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical"
+                            Grid.Column="3"
+                            Margin="20">
+                    <Grid>
+                        <Ellipse Fill="#f2e674"
+                             StrokeThickness="10"
+                             Stroke="#d1c347"
+                             Width="150"
+                             Height="150"/>
+                        <Label Content="10"
+                               FontSize="80"
+                               Foreground="#bf9f00"/>
+                    </Grid>
+                    <TextBox x:Name="tbCoin10"
+                             Margin="10"
+                             Width="100"
+                             FontSize="16"
+                             HorizontalContentAlignment="Center"/>
+                    <CheckBox Content="Активная"
+                              Height="30"
+                              Width="100"
+                              x:Name="cbCoin10"
+                              Checked="cbCoin10_Checked"
+                              Unchecked="cbCoin10_Unchecked"/>
+                </StackPanel>
+            </Grid>
+            <Button x:Name="btnSave"
+                    Content="Сохранить"
+                    Click="btnSave_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
